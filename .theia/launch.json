@@ -8,6 +8,16 @@
       "name": "Current File",
       "request": "launch",
       "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "Spring Boot-Application<example-java-spring-gradle>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "mainClass": "hello.Application",
+      "projectName": "example-java-spring-gradle",
+      "args": "",
+      "envFile": "${workspaceFolder}/.env"
     }
   ]
 }

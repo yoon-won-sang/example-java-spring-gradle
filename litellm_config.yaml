@@ -1,0 +1,25 @@
+model_list:
+  - model_name: claude-3-5-sonnet
+    litellm_params:
+      model: gemini/gemini-3.1-flash-lite
+      api_key: "AQ.Ab8RN6LjdVDjuPZrWqK5NrmFKsJBA1sXUGOv1kTKHLqZD4I-yw"
+  - model_name: claude-3-5-sonnet-20241022
+    litellm_params:
+      model: gemini/gemini-3.1-flash-lite
+      api_key: "AQ.Ab8RN6LjdVDjuPZrWqK5NrmFKsJBA1sXUGOv1kTKHLqZD4I-yw"
+  - model_name: claude-3-5-haiku
+    litellm_params:
+      model: gemini/gemini-3.1-flash-lite
+      api_key: "AQ.Ab8RN6LjdVDjuPZrWqK5NrmFKsJBA1sXUGOv1kTKHLqZD4I-yw"
+  - model_name: claude-3-5-haiku-20241022
+    litellm_params:
+      model: gemini/gemini-3.1-flash-lite
+      api_key: "AQ.Ab8RN6LjdVDjuPZrWqK5NrmFKsJBA1sXUGOv1kTKHLqZD4I-yw"
+  - model_name: claude-sonnet-4-6
+    litellm_params:
+      model: gemini/gemini-3.1-flash-lite
+      api_key: "AQ.Ab8RN6LjdVDjuPZrWqK5NrmFKsJBA1sXUGOv1kTKHLqZD4I-yw"
+  - model_name: claude-haiku-4-5
+    litellm_params:
+      model: gemini/gemini-3.1-flash-lite
+      api_key: "AQ.Ab8RN6LjdVDjuPZrWqK5NrmFKsJBA1sXUGOv1kTKHLqZD4I-yw"
