@@ -17,3 +17,19 @@
 .gradle
 /bin
 /build
+
+# 특정 파일 하나만 제외하기
+litellm_config.yaml
+.env
+
+# 특정 폴더 전체 제외하기 (끝에 /를 붙입니다)
+.gradle/
+build/
+bin/
+out/
+
+# 특정 확장자를 가진 모든 파일 제외하기
+*.class
+*.log
+*.jar
+
